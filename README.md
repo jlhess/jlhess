@@ -3,7 +3,7 @@
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/jlhess/ActiveDirectoryLab)
-- [Azure Sentinel Map](https://github.com/jlhess/LABURL)
+- [Azure Sentinel Map](https://github.com/jlhess/SIEM)
 
 
 
