@@ -6,6 +6,9 @@
 - [Azure Sentinel Map](https://github.com/jlhess/SIEM)
 - [Vulnerability Scans](https://github.com/jlhess/NessusScan)
 
+<h2> 💻 Python Projects:</h2>
+
+- [Word Guesser](https://github.com/jlhess/WordGuess)
 
 
 <h2>📃 Certifications</h2>
