@@ -12,8 +12,8 @@
 
 
 <h2>📃 Certifications</h2>
-- GPCS
-- GCLD
+- GPCS <br>
+- GCLD <br>
 - Security+ <br>
 - Network+ <br>
 - ITF+
