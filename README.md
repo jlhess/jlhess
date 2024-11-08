@@ -12,6 +12,7 @@
 
 
 <h2>📃 Certifications</h2>
+- GCPN <br>
 - GPCS <br>
 - GCLD <br>
 - Security+ <br>
