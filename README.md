@@ -2,6 +2,7 @@
 
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
+- [Threat Simulation and Detection](https://github.com/jlhess/Threat-Simulation-Detection/)
 - [Active Directory Home Lab](https://github.com/jlhess/ActiveDirectoryLab)
 - [Azure Sentinel Map](https://github.com/jlhess/SIEM)
 - [Vulnerability Scans](https://github.com/jlhess/NessusScan)
