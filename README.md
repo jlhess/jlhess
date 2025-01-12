@@ -7,8 +7,9 @@
 <h2> 👩‍💻 Cybersecurity Projects:</h2>
 
 - [Threat Simulation and Detection](https://github.com/jlhess/Threat-Simulation-Detection/)
-- [Active Directory Home Lab](https://github.com/jlhess/ActiveDirectoryLab)
+- [Vulnerable Active Directory](https://github.com/jlhess/Active-Directory)
 - [Azure Sentinel Map](https://github.com/jlhess/SIEM)
+- [Active Directory](https://github.com/jlhess/ActiveDirectoryLab)
 - [Vulnerability Scans](https://github.com/jlhess/NessusScan)
 
 <h2> 💻 Python Projects:</h2>
